@@ -1,6 +1,6 @@
-# Java Backend Developer Portfolio
+# Java Full Stack Developer Portfolio
 
-A clean, fast, recruiter-friendly static portfolio website for a Java Backend Software Developer. It is built with plain HTML, CSS, and JavaScript so it can be hosted for free on GitHub Pages without a backend or build step.
+A clean, fast, recruiter-friendly static portfolio website for a Java Full Stack Software Developer. It is built with plain HTML, CSS, and JavaScript so it can be hosted for free on GitHub Pages without a backend or build step.
 
 ## Folder Structure
 
@@ -47,9 +47,9 @@ To change the profile photo, replace `assets/profile.png` with another square or
 ## Content Tips
 
 - Keep the hero section short and role-specific.
-- Replace project examples with real backend projects when possible.
+- Replace project examples with real full stack or backend projects when possible.
 - Use honest impact statements. Prefer specific outcomes only when you can support them.
-- Make Java, Spring Boot, microservices, APIs, databases, Kafka, Redis, AWS, Docker, Kubernetes, performance, and reliability easy to find.
+- Make Java, Spring Boot, Angular, JavaScript, microservices, APIs, databases, Kafka, Redis, AWS, Docker, Kubernetes, performance, and reliability easy to find.
 - Keep GitHub, LinkedIn, email, and resume links current.
 
 ## Push to GitHub
