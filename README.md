@@ -9,6 +9,9 @@ A clean, fast, recruiter-friendly static portfolio website for a Java Backend So
 |-- index.html
 |-- style.css
 |-- script.js
+|-- assets/
+|   `-- profile.png
+|-- resume.pdf
 `-- README.md
 ```
 
@@ -16,7 +19,6 @@ Optional files you can add later:
 
 ```text
 .
-|-- resume.pdf
 `-- og-image.png
 ```
 
@@ -26,17 +28,21 @@ Optional files you can add later:
 2. Edit `index.html` to update your name, title, profile summary, projects, experience highlights, contact links, and resume link.
 3. Edit `style.css` to change colors, spacing, typography, or layout.
 4. Edit `script.js` only if you want to change the mobile menu or dark mode behavior.
-5. Open `index.html` in your browser to preview locally.
+5. Replace `assets/profile.png` with your preferred profile photo if you want a different image.
+6. Open `index.html` in your browser to preview locally.
 
 ## Replace These Placeholders
 
 Search for these values in `index.html` and replace them:
 
 - `resume.pdf`
+- `assets/profile.png`
 - Project repository URLs and project descriptions
 - Company names, domains, responsibilities, and real project outcomes
 
 If you add a resume, place a file named `resume.pdf` in the same folder as `index.html`. If your resume file has another name, update both resume links in `index.html`.
+
+To change the profile photo, replace `assets/profile.png` with another square or portrait image using the same filename. A 512 x 512 image works well.
 
 ## Content Tips
 
